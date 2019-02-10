@@ -21,6 +21,8 @@ namespace Ex5
                 Console.WriteLine("---------------------***----------------------");
             }
         }
+
+        //I'm fixxing here
         static void DisplayMessageForRemoveProduct(string message)
         {
             Console.WriteLine(message);
