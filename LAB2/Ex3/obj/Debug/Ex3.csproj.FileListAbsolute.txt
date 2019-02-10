@@ -1,0 +1,6 @@
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex3\bin\Debug\Ex3.exe.config
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex3\bin\Debug\Ex3.exe
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex3\bin\Debug\Ex3.pdb
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex3\obj\Debug\Ex3.exe
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex3\obj\Debug\Ex3.pdb

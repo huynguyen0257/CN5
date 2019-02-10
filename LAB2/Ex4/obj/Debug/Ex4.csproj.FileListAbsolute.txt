@@ -1,0 +1,7 @@
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex4\bin\Debug\Ex4.exe.config
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex4\bin\Debug\Ex4.exe
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex4\bin\Debug\Ex4.pdb
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex4\obj\Debug\Ex4.csprojAssemblyReference.cache
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex4\obj\Debug\Ex4.exe
+F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex4\obj\Debug\Ex4.pdb
