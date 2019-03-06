@@ -1,7 +1,0 @@
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex5\bin\Debug\Ex5.exe.config
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex5\bin\Debug\Ex5.exe
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex5\bin\Debug\Ex5.pdb
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex5\obj\Debug\Ex5.csprojAssemblyReference.cache
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex5\obj\Debug\Ex5.exe
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex5\obj\Debug\Ex5.pdb

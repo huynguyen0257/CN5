@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaleManager", "SaleManager\SaleManager.csproj", "{399FBE4F-0E30-423B-9DB6-D57117C56381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThanhVienManager", "ThanhVienManager\ThanhVienManager.csproj", "{03E8E22F-E669-4D9E-B224-44A146963DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399FBE4F-0E30-423B-9DB6-D57117C56381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399FBE4F-0E30-423B-9DB6-D57117C56381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399FBE4F-0E30-423B-9DB6-D57117C56381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399FBE4F-0E30-423B-9DB6-D57117C56381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E8E22F-E669-4D9E-B224-44A146963DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E8E22F-E669-4D9E-B224-44A146963DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E8E22F-E669-4D9E-B224-44A146963DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E8E22F-E669-4D9E-B224-44A146963DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {521A80B9-BDAC-4C49-9B1D-816E7D519D7D}
+	EndGlobalSection
+EndGlobal

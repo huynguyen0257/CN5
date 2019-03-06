@@ -1,7 +1,0 @@
-F:\ChuyenNganh5\PRN292\Examples\LAB2\LAB2\bin\Debug\LAB2.exe.config
-F:\ChuyenNganh5\PRN292\Examples\LAB2\LAB2\bin\Debug\LAB2.exe
-F:\ChuyenNganh5\PRN292\Examples\LAB2\LAB2\bin\Debug\LAB2.pdb
-F:\ChuyenNganh5\PRN292\Examples\LAB2\LAB2\obj\Debug\Ex1.csprojAssemblyReference.cache
-F:\ChuyenNganh5\PRN292\Examples\LAB2\LAB2\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
-F:\ChuyenNganh5\PRN292\Examples\LAB2\LAB2\obj\Debug\LAB2.exe
-F:\ChuyenNganh5\PRN292\Examples\LAB2\LAB2\obj\Debug\LAB2.pdb

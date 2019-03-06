@@ -1,6 +1,0 @@
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex2\bin\Debug\Ex2.exe.config
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex2\bin\Debug\Ex2.exe
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex2\bin\Debug\Ex2.pdb
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex2\obj\Debug\Ex2.exe
-F:\ChuyenNganh5\PRN292\Examples\LAB2\Ex2\obj\Debug\Ex2.pdb
